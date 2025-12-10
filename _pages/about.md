@@ -33,12 +33,6 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by _Remote Sensing_!
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
 
-
-
-
-
-
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='joe2023.png' alt="sym" width="100%"></div></div>
@@ -47,27 +41,6 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 [Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685)
 
 **Yifan Huang**, Fei Yuan, Fengqi Xiao, Jianxiang Lu, En Cheng, **IEEE Journal of Oceanic Engineering 2023**
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='jmse2020.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761)
-  
-**Yifan Huang**, Weixiang Li, Fei Yuan, **Journal of marine science and engineering 2020**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='spic2021.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254)
-
-**Yifan Huang**, Manyu Liu, Fei Yuan, **Signal Processing: Image Communicationg 2021**
 
 </div>
 </div>
@@ -81,6 +54,26 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='spic2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254)
+
+**Yifan Huang**, Manyu Liu, Fei Yuan, **Signal Processing: Image Communicationg 2021**
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='jmse2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761)
+  
+**Yifan Huang**, Weixiang Li, Fei Yuan, **Journal of marine science and engineering 2020**
+
+</div>
+</div>
+
 
 - [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **IEEE Journal of Oceanic Engineering 2025**
   
