@@ -105,7 +105,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 # ⭐ Patents
 - [授权] 基于红色斑马鱼应激行为的水质异常检测与分级报警方法, 程恩, **黄一凡**, 朱逸, 袁飞, 陈柯宇, 中国, 2019-02-26
 
-# 🎖 Competitions and Awards
+# 🥇 Competitions and Awards
 - *2020* 厦门大学优秀毕业生
 - *2019* 厦门大学优秀团员 厦门大学三好学生
 - *2018* 厦门大学优秀团员 厦门大学优秀学生干部 优秀共产党员
@@ -119,11 +119,11 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - *2025.11*, "桂电论坛：通识教育讲座计划", 水下智能感知与科研探索之旅. 
 - *2023.06*, "第六届全国海洋光学技术交流会优秀学生报告", 基于零参考深度网络的水下图像增强.
 
-# ❀ Work Experiences
+# 🌼 Work Experiences
 - *2025.02至今*, 桂林电子科技大学, 信息与通信学院, 助理教授
 - *2025.02至今*, 桂林电子科技大学, 信息与通信学院, 博士后在站
 
-# ❤ Social Services
+# ⚡ Social Services
 - *2016.08 - 2017.08*, 宁夏回族自治区中卫市海原县回民中学，研究生支教服务工作，共青团中央、教育部中国青年志愿者扶贫接力计划.
 - *2019.07 - 2019.08*, 中铁工程装备集团有限公司设研总院, 实习.
 - *2015.11 - 2016.01*, 福建省厦门市厦门大学附属科技中学，教学培训见习.
