@@ -41,7 +41,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/joe2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JOE 2023</div><img src='joe2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685)
