@@ -98,7 +98,11 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
   
 - [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **厦门大学学报 (自然科学版) 2017**
 
-# 🎖 Patents
+# 📖 Projects
+- *2026.01 - 2028.02*, 中国博士后科学基金第78批面上资助, 融合物理-仿生机制的水下场景视觉重建关键技术研究，8万元，在研，主持.
+- *2021.01 - 2024.12*, 国家自然科学基金委员会面上项目 (62071401), 融合视觉感知与优化学习的水下图像端到端传输方法研究, 56万元，结题，学生技术负责人.
+
+# 💬 Patents
 - [授权]基于红色斑马鱼应激行为的水质异常检测与分级报警方法, 程恩, **黄一凡**, 朱逸, 袁飞, 陈柯宇, 中国, 2019-02-26
 
 # 🎖 Competitions and Awards
@@ -112,10 +116,3 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 # 💬 Lectures and Forums
 - *2025.11*, "桂电论坛：通识教育讲座计划", 水下智能感知与科研探索之旅. 
 - *2023.06*, "第六届全国海洋光学技术交流会优秀学生报告", 基于零参考深度网络的水下图像增强. 
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
