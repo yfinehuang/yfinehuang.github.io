@@ -55,17 +55,20 @@ I am a reviewer for _IEEE Transactions on Circuits and Systems for Video Technol
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
+
+# 📖 Educations
+- *2020.09 - 2024.12*, PhD, School of Information, Xiamen University. 
+- *2017.09 - 2020.06*, Master, School of Information, Xiamen University.
+- *2012.09 - 2016.06*, Undergraduate, School of Information, Xiamen University.
+
+# 💬 Lectures and Forums
+- *2025.11*, "桂电论坛：通识教育讲座计划", 水下智能感知与科研探索之旅. 
+- *2023.06*, "第六届全国海洋光学技术交流会优秀学生报告", 基于零参考深度网络的水下图像增强. 
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 教育经历
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
