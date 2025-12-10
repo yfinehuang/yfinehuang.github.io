@@ -30,6 +30,10 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - *2017.09 - 2020.06*, Master, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University.
 - *2012.09 - 2016.06*, Undergraduate, School of Information, Xiamen University.
 
+# 🌼 Work Experiences
+- *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Assistant Professor
+- *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Postdoctoral Researcher
+
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 I award a grant from the China Postdoctoral Science Foundation!
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by _Journal of Real-Time Image Processing_!
@@ -119,14 +123,12 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - *2025.11*, "桂电论坛：通识教育讲座计划", 水下智能感知与科研探索之旅. 
 - *2023.06*, "第六届全国海洋光学技术交流会优秀学生报告", 基于零参考深度网络的水下图像增强.
 
-# 🌼 Work Experiences
-- *2025.02至今*, 桂林电子科技大学, 信息与通信学院, 助理教授
-- *2025.02至今*, 桂林电子科技大学, 信息与通信学院, 博士后在站
-
-# ⚡ Social Services
-- *2016.08 - 2017.08*, 宁夏回族自治区中卫市海原县回民中学，研究生支教服务工作，共青团中央、教育部中国青年志愿者扶贫接力计划.
+# 💻 Internships
 - *2019.07 - 2019.08*, 中铁工程装备集团有限公司设研总院, 实习.
 - *2015.11 - 2016.01*, 福建省厦门市厦门大学附属科技中学，教学培训见习.
+  
+# ⚡ Social Services
+- *2016.08 - 2017.08*, 宁夏回族自治区中卫市海原县回民中学，研究生支教服务工作，共青团中央、教育部中国青年志愿者扶贫接力计划.
 - *2020.09 - 2021.08*, 厦门大学信息学院信息与通信工程系博士党支部, 担任党支部副书记、组织委员.
 - *2017.09 - 2020.06*, 厦门大学信息学院信息与通信工程系, 担任班长、团支部副书记.
 - *2015.09 - 2016.06*，厦门大学信息学院通信工程系，担任宣传委员.
