@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now working on **underwater information perception and processing research**. I am currently an Assistant Professor at the School of Information and Communication Engineering, **Guilin University of Electronic Technology**. If you are interested in any form of academic cooperation, please feel free to contact me at <yfhuang@guet.edu.cn>. I will be recruiting master's students!
+I am now working on **underwater information perception and processing research**. I am currently an Assistant Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). If you are interested in any form of academic cooperation, please feel free to contact me at <yfhuang@guet.edu.cn>. I will be recruiting master's students!
 
-I earned my Ph.D. in Engineering from the School of Information, **Xiamen University**, under the guidance of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and **Yuan Fei (袁飞)** <https://informatics.xmu.edu.cn/old/info/1021/24079.htm>. My postdoctoral co-supervisor is **Chen Feng (陈峰)** (Ph.D. from Harbin Engineering University). My research focuses on underwater information acquisition, underwater intelligent perception, and computation. I specialize in areas such as underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual information perception. My work has yielded multiple research outcomes, including innovative contributions such as an underwater imaging curve reconstruction model, light attenuation compensation and multi-scale fusion enhancement algorithms, and underwater polarization-based clear imaging techniques, all of which significantly improve imaging quality and visual performance in complex aquatic environments.
+I earned my Ph.D. in Engineering from the School of Information, [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the guidance of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Chen Feng (陈峰)** (Ph.D. from Harbin Engineering University). My research focuses on underwater information acquisition, underwater intelligent perception, and computation. I specialize in areas such as underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual information perception. My work has yielded multiple research outcomes, including innovative contributions such as an underwater imaging curve reconstruction model, light attenuation compensation and multi-scale fusion enhancement algorithms, and underwater polarization-based clear imaging techniques, all of which significantly improve imaging quality and visual performance in complex aquatic environments.
 
 On the topic of underwater visual reconstruction and image processing, I have published over 10 papers in authoritative international and domestic journals, including **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing-Image Communication_**, etc. I have led research project funded by the China Postdoctoral Science Foundation.
 
@@ -58,8 +58,8 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 
 
 # 📖 Educations
-- *2020.09 - 2024.12*, PhD, School of Information, Xiamen University. 
-- *2017.09 - 2020.06*, Master, School of Information, Xiamen University.
+- *2020.09 - 2024.12*, PhD, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University. 
+- *2017.09 - 2020.06*, Master, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University.
 - *2012.09 - 2016.06*, Undergraduate, School of Information, Xiamen University.
 
 # 💬 Lectures and Forums
