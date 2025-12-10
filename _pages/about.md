@@ -41,7 +41,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='joe2023.gif' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='joe2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -[Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685), **Yifan Huang**, Fei Yuan, Fengqi Xiao, Jianxiang Lu, En Cheng, **IEEE Journal of Oceanic Engineering 2023**
