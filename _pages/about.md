@@ -25,24 +25,19 @@ On the topic of underwater visual reconstruction and image processing, I have pu
 
 I am a reviewer for _IEEE Transactions on Circuits and Systems for Video Technology_ and _IEEE Signal Processing Letters_.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 I award a grant from the China Postdoctoral Science Foundation!
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by _Journal of Real-Time Image Processing_!
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by _IEEE Transactions on Geoscience and Remote Sensing_!
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by _Remote Sensing_!
+- *2023.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
+
+
+
+
+
+
 
 # 📝 Publications 
 
