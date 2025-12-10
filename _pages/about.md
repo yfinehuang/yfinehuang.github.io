@@ -72,10 +72,15 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='spic2020.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Underwater image enhancement based on color restoration and dual image wavelet fusion](https://www.sciencedirect.com/science/article/pii/S0923596522001035)
 
-- [Underwater image enhancement based on color restoration and dual image wavelet fusion](https://www.sciencedirect.com/science/article/pii/S0923596522001035), **Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, **Signal Processing: Image Communicationg 2022**
+**Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, **Signal Processing: Image Communicationg 2022**
 
-
+</div>
+</div>
 
 - [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **IEEE Journal of Oceanic Engineering 2025**
   
