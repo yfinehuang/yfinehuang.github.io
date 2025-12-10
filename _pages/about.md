@@ -51,9 +51,27 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 </div>
 </div>
 
-- [Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761), **Yifan Huang**, Weixiang Li, Fei Yuan, **Journal of marine science and engineering 2020**
 
-- [Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254), **Yifan Huang**, Manyu Liu, Fei Yuan, **Signal Processing: Image Communicationg 2021**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='jmse2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761)
+  
+**Yifan Huang**, Weixiang Li, Fei Yuan, **Journal of marine science and engineering 2020**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='spic2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254)
+
+**Yifan Huang**, Manyu Liu, Fei Yuan, **Signal Processing: Image Communicationg 2021**
+
+</div>
+</div>
+
 
 - [Underwater image enhancement based on color restoration and dual image wavelet fusion](https://www.sciencedirect.com/science/article/pii/S0923596522001035), **Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, **Signal Processing: Image Communicationg 2022**
 
