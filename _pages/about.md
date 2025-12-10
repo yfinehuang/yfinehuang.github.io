@@ -98,6 +98,8 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
   
 - [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **厦门大学学报 (自然科学版) 2017**
 
+# 🎖 Patents
+- [授权]基于红色斑马鱼应激行为的水质异常检测与分级报警方法, 程恩, **黄一凡**, 朱逸, 袁飞, 陈柯宇, 中国, 2019-02-26
 
 # 🎖 Competitions and Awards
 - *2020* 厦门大学优秀毕业生
