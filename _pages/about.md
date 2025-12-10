@@ -17,9 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now working on underwater information perception and processing research. I am currently an Assistant Professor at the School of Information and Communication Engineering, Guilin University of Electronic Technology. If you are interested in any form of academic cooperation, please feel free to contact me at <yfhuang@guet.edu.cn>. I will be recruiting master's students!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I earned my Ph.D. in Engineering from the School of Information, Xiamen University, under the guidance of Professors Cheng En and Yuan Fei. My research focuses on underwater information acquisition, underwater intelligent perception, and computation. I specialize in areas such as underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual information perception. My work has yielded multiple research outcomes, including innovative contributions such as an underwater imaging curve reconstruction model, light attenuation compensation and multi-scale fusion enhancement algorithms, and underwater polarization-based clear imaging techniques, all of which significantly improve imaging quality and visual performance in complex aquatic environments.
+
+On the topic of underwater visual reconstruction and image processing, I have published over 10 papers in authoritative international and domestic journals, including _IEEE Journal of Oceanic Engineering_ and _Signal Processing-Image Communication_, etc. I have led research project funded by the China Postdoctoral Science Foundation.
+
+I am a reviewer for _IEEE Transactions on Circuits and Systems for Video Technology_ and _IEEE Signal Processing Letters_.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 🔥 News
