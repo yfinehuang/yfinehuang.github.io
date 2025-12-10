@@ -44,17 +44,33 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Oceanic Engineering 2023</div><img src='joe2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--[Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685)
+[Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685)
 
 **Yifan Huang**, Fei Yuan, Fengqi Xiao, Jianxiang Lu, En Cheng
 
 </div>
 </div>
 
+- [Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761), **Yifan Huang**, Weixiang Li, Fei Yuan, **Journal of marine science and engineering 2020**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254), **Yifan Huang**, Manyu Liu, Fei Yuan, **Signal Processing: Image Communicationg 2021**
+
+- [Underwater image enhancement based on color restoration and dual image wavelet fusion](https://www.sciencedirect.com/science/article/pii/S0923596522001035), **Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, **Signal Processing: Image Communicationg 2022**
 
 
+
+- [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **IEEE Journal of Oceanic Engineering 2025**
+- [Lightweight Dual-Antagonistic Underwater Image Enhancement Network: A High-Performance Real-Time Approach Combining Knowledge Distillation](https://www.researchsquare.com/article/rs-6451625/v1), Zhiqi Fu, Yuxiang Shen, **Yifan Huang**, Fei Yuan, **Journal of Real-Time ImageProcessing 2025**
+- [Neuromorphic computing network for underwater image enhancement and beyond](https://ieeexplore.ieee.org/abstract/document/10704737), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **IEEE Transactions on Geoscience and Remote Sensing 2024**
+- [A dual-branch autoencoder network for underwater low-light polarized image enhancement](https://www.mdpi.com/2072-4292/16/7/1134), Chang Xue, Qingyu Liu, **Yifan Huang**, En Cheng, Fei Yuan, **Remote Sensing 2024**
+- [Turbid Underwater Image Enhancement Based on Parameter-Tuned Stochastic Resonance](https://ieeexplore.ieee.org/abstract/document/9880475), Fengqi Xiao, Fei Yuan, **Yifan Huang**, En Cheng, **IEEE Journal of Oceanic Engineering 2022**
+- [Noise reduction for sonar images by statistical analysis and fields of experts](https://www.sciencedirect.com/science/article/pii/S104732032030211X), Fei Yuan, Fengqi Xiao, Kaihan Zhang, **Yifan Huang**, En Cheng, **Journal of Visual Communication and Image Representation 2021**
+- [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, **IEEE Access 2018**
+
+
+
+
+- [鱼类应激行为作用下的水质视频监测分析系统]((https://www.sciencedirect.com/science/article/pii/S104732032030211X), Fei Yuan, Fengqi Xiao, Kaihan Zhang, **Yifan Huang**, En Cheng, **Journal of Visual Communication and Image Representation 2021**
 
 # 📖 Educations
 - *2020.09 - 2024.12*, PhD, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University. 
