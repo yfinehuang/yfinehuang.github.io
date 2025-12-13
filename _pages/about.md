@@ -21,7 +21,7 @@ I am now working on **underwater information perception and processing research*
 
 I earned my Ph.D. in **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)**, [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the guidance of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Chen Feng (陈峰)** (Ph.D. from Harbin Engineering University). My research focuses on underwater information acquisition, underwater intelligent perception, and computation. I specialize in areas such as underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual information perception. My work has yielded multiple research outcomes, including innovative contributions such as an underwater imaging curve reconstruction model, light attenuation compensation and multi-scale fusion enhancement algorithms, and underwater polarization-based clear imaging techniques, all of which significantly improve imaging quality and visual performance in complex aquatic environments.
 
-On the topic of underwater visual reconstruction and image processing, I have published over 10 papers in authoritative international and domestic journals, including **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing-Image Communication_**, etc. I have led research project funded by the China Postdoctoral Science Foundation.
+On the topic of underwater visual reconstruction and image processing, I have published over 10 papers in authoritative international and domestic journals, including **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing-Image Communication_**, etc. I have led research projects funded by the **China Postdoctoral Science Foundation** and **"Empower" Action Plan (Guangxi Key R&D Program)**.
 
 I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Technology_** and **_IEEE Signal Processing Letters_**.
 
@@ -35,6 +35,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Postdoctoral Researcher
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 I award a grant from the "Empower" Action Plan (Guangxi Key R&D Program)!
 - *2025.12*: &nbsp;🎉🎉 I award a grant from the China Postdoctoral Science Foundation!
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by _Journal of Real-Time Image Processing_!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
@@ -103,7 +104,8 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **厦门大学学报 (自然科学版) 2017**
 
 # 💎 Projects
-- *2026.01 - 2028.02*, **中国博士后科学基金第78批面上资助**, 融合物理-仿生机制的水下场景视觉重建关键技术研究, 8万元, 在研, **主持**
+- *2026.01 - 2028.12*, **"赋能"行动计划（广西重点研发计划）**, 面向AUV编队协同的成像声纳智能感知技术研究, 200万元, 在研, **主持**
+- *2026.01 - 2028.02*, **中国博士后科学基金第78批面上资助**(2025M780263), 融合物理-仿生机制的水下场景视觉重建关键技术研究, 8万元, 在研, **主持**
 - *2021.01 - 2024.12*, **国家自然科学基金委员会面上项目** (62071401), 融合视觉感知与优化学习的水下图像端到端传输方法研究, 56万元, 结题, **学生技术负责人**
 
 # ⭐ Patents
