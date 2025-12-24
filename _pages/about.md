@@ -100,6 +100,12 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, **IEEE Access 2018**
 
 - 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, **数字海洋与水下攻防 2025**
+
+- 瑞利复杂度–色散熵平面:一种新的水声信号非线性特征提取方法, 彭蕾, 陈哲, 张语欣, 王清麟, **黄一凡**, **数字海洋与水下攻防 2025**
+
+- 基于特征值梯度跃变的半谱搜索DOA估计算法, 韩宝进, 阮诗乔, 张语欣, 钟博远, 陈哲, **黄一凡**, **数字海洋与水下攻防 2025**
+
+- 基于噪声子空间重构的矢量阵MUSIC改进算法, 唐林驰, 韩宝进, **黄一凡(通讯)**, 周强, **数字海洋与水下攻防 2025**
   
 - [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **厦门大学学报 (自然科学版) 2017**
 
