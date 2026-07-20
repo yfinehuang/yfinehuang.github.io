@@ -16,6 +16,12 @@ lang: zh
 
 <span class='anchor' id='about-me'></span>
 
+<div class="lang-switch">
+  <a href="/" target="_self">English</a>
+  <span class="lang-separator">|</span>
+  <span class="lang-current">中文</span>
+</div>
+
 I am now working on **underwater information perception and processing research （水下信息感知与处理）**. I am currently an Associate Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). If you are interested in any form of academic cooperation, please feel free to contact me at <yfhuang@guet.edu.cn>. I will be recruiting master's students!
 
 I earned my Ph.D. in **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)**, [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the guidance of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Chen Feng** (Ph.D. from Harbin Engineering University). My research focuses on underwater information acquisition, underwater intelligent perception, and computation. I specialize in areas such as underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual information perception. My work has yielded multiple research outcomes, including innovative contributions such as an underwater imaging curve reconstruction model, light attenuation compensation and multi-scale fusion enhancement algorithms, and underwater polarization-based clear imaging techniques, all of which significantly improve imaging quality and visual performance in complex aquatic environments.
