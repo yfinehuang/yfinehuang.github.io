@@ -167,20 +167,41 @@ h1:before, .anchor:before {
   color: #8c959f;
 }
 
-/* Desktop: align language switch to the right */
-.page__content .lang-switch {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  width: 100%;
-}
-
-/* Mobile and tablet: center language switch */
 @media screen and (max-width: 900px) {
+  /* 联系方式保持在个人信息右侧 */
+  .profile_box > .author__urls-wrapper {
+    display: block;
+    flex: 0 0 auto;
+    margin-left: auto;
+  }
+
+  /* 四个图标排成右侧 2×2 */
+  .author__urls_sm {
+    display: grid;
+    grid-template-columns: repeat(2, 2.25rem);
+    justify-content: end;
+    align-items: center;
+    gap: 0.45rem 0.55rem;
+    padding: 0;
+    font-size: 1.15rem;
+  }
+
+  .author__urls_sm a,
+  .author__urls_sm .author__location_sm {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    margin: 0;
+    padding: 0;
+    color: #4a4f55;
+    text-decoration: none;
+  }
+
+  /* 语言按钮继续单独居中 */
   .page__content .lang-switch {
-    display: flex !important;
     justify-content: center !important;
-    width: 100% !important;
-    margin: 0.5rem auto 1.2rem !important;
+    margin: 1rem auto 1.3rem !important;
   }
 }
