@@ -24,6 +24,8 @@ redirect_from:
   <a href="/zh/" target="_self">中文</a>
 </div>
 
+# ✨ About Me
+
 My research focuses on **underwater information perception and processing （水下信息感知与处理）**. I am currently an Associate Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). I welcome academic exchange and research collaboration in related fields. Please feel free to contact me at [yfhuang@guet.edu.cn](mailto:yfhuang@guet.edu.cn). I am recruiting master's students and warmly welcome applicants interested in underwater vision, underwater intelligent perception, and related research areas to join my group!
 
 I received my Ph.D. from the **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)** at [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the supervision of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Professor Chen Feng**. My research interests include underwater information acquisition, underwater visual reconstruction, and underwater intelligent perception and computing, with a particular focus on underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual perception. My research aims to improve imaging quality and visual perception capabilities in complex underwater environments.
@@ -32,12 +34,12 @@ In the fields of underwater visual reconstruction and intelligent image processi
 
 I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video Technology_**, **_CCF Transactions on Pervasive Computing and Interaction_** and **_IEEE Signal Processing Letters_**.
 
-# 📖 Educations
+# 📖 Education Experience
 - *2020.09 - 2024.12*, PhD, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University. 
 - *2017.09 - 2020.06*, Master, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University.
 - *2012.09 - 2016.06*, Undergraduate, School of Information, Xiamen University.
 
-# 🌼 Work Experiences
+# 🌼 Professional Experience
 - *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Associate Professor
 - *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Postdoctoral Researcher
 
@@ -52,7 +54,7 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
 - *2024.03*: &nbsp;🎉🎉 A paper has been accepted for publication in _Remote Sensing_!
 - *2023.04*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Journal of Oceanic Engineering_!
 
-# 💎 Projects
+# 💎 Research Projects
 - *2026.04 - Present*, **Guangxi Key Research and Development Program**, Intelligent Perception Technologies for Imaging Sonar in Cooperative AUV Formations, RMB 4.70 million, ongoing, **Principal Investigator**
 - *2026.01 - Present*, **China Postdoctoral Science Foundation**, Key Technologies for Underwater Scene Visual Reconstruction Integrating Physics-Based and Bio-Inspired Mechanisms, RMB 80,000, ongoing, **Principal Investigator**
 - *2021.01 - 2024.12*, **General Program of the National Natural Science Foundation of China (NSFC)**, End-to-End Underwater Image Transmission via Visual Perception and Optimization Learning, RMB 560,000, completed, **Technical Lead**
@@ -142,15 +144,15 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
 - [Published] A Polarization-Aware Method and Device for Underwater Low-Light Image Enhancement, Chang Xue, **Yifan Huang**, Fei Yuan, 2024
 - [Granted] A Method for Water Quality Anomaly Detection and Graded Warning Based on the Stress Behavior of Red Zebrafish, En Cheng, **Yifan Huang**, Yi Zhu, Fei Yuan, Keyu Chen, 2019
 
-# 🥇 Honors and Awards
+# 💬 Invited Talks & Presentations
+- *2025.11*, “Underwater Intelligent Perception and the Journey of Scientific Research,” General Education Lecture Series, Guilin University of Electronic Technology
+- *2023.11*, “Underwater Image Enhancement Based on Zero-Reference Deep Networks,” the 6th National Symposium on Marine Optical Technology, **Outstanding Student Presentation Award**
+
+# 🥇 Honors & Awards
 - *2020*, Outstanding Graduate, Xiamen University
 - *2018*, Second Prize, the 4th China Graduate Mobile Terminal Application Design Innovation Competition
 - *2018*, National Second Prize and East China Regional First Prize, the 14th “GigaDevice Cup” China Graduate Electronics Design Contest
 - *2017*, Top Ten Volunteer, Xiamen University
-
-# 💬 Invited Talks and Presentations
-- *2025.11*, “Underwater Intelligent Perception and the Journey of Scientific Research,” General Education Lecture Series, Guilin University of Electronic Technology
-- *2023.11*, “Underwater Image Enhancement Based on Zero-Reference Deep Networks,” the 6th National Symposium on Marine Optical Technology, **Outstanding Student Presentation Award**
 
 # ⚡ Social Services
 - *2016.08 - 2017.08*, Volunteer Teacher, Hui Middle School of Haiyuan County, Ningxia, under the Graduate Volunteer Teaching Program jointly organized by the Central Committee of the Communist Youth League of China and the Ministry of Education
