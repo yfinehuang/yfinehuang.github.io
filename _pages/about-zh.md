@@ -22,13 +22,24 @@ lang: zh
   <span class="lang-current">中文</span>
 </div>
 
-I am now working on **underwater information perception and processing research （水下信息感知与处理）**. I am currently an Associate Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). If you are interested in any form of academic cooperation, please feel free to contact me at <yfhuang@guet.edu.cn>. I will be recruiting master's students!
+我目前主要从事**水下信息感知与处理研究**。现任[桂林电子科技大学](https://www.guet.edu.cn/)信息与通信学院副教授。欢迎开展各种形式的学术交流与科研合作，可通过邮箱 [yfhuang@guet.edu.cn](mailto:yfhuang@guet.edu.cn) 与我联系。本人长期招收硕士研究生，欢迎对相关研究方向感兴趣的同学加入！
 
-I earned my Ph.D. in **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)**, [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the guidance of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Chen Feng** (Ph.D. from Harbin Engineering University). My research focuses on underwater information acquisition, underwater intelligent perception, and computation. I specialize in areas such as underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual information perception. My work has yielded multiple research outcomes, including innovative contributions such as an underwater imaging curve reconstruction model, light attenuation compensation and multi-scale fusion enhancement algorithms, and underwater polarization-based clear imaging techniques, all of which significantly improve imaging quality and visual performance in complex aquatic environments.
+我于[厦门大学](https://www.xmu.edu.cn/)**水声通信与海洋信息技术教育部重点实验室**获得博士学位，师从[程恩教授](https://informatics.xmu.edu.cn/old/info/1021/46130.htm)和[袁飞教授](https://informatics.xmu.edu.cn/old/info/1021/24079.htm)。博士后合作导师为**陈峰教授**，其博士毕业于哈尔滨工程大学。我的研究主要聚焦于水下信息获取、水下视觉重建以及水下智能感知与计算等方向。目前已取得多项研究成果，相关技术能够有效提升复杂水环境下的成像质量与视觉感知效果。
 
-On the topic of underwater visual reconstruction and image processing, I have published over 10 papers in authoritative international and domestic journals, including **_IEEE Transactions on Geoscience and Remote Sensing_**, **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing-Image Communication_**, etc. I have led research projects funded by the **China Postdoctoral Science Foundation** and **Guangxi Key Research and Development Program**.
+在水下视觉重建与图像智能处理领域，我已在国内外权威期刊发表论文10余篇，包括 **_IEEE Transactions on Geoscience and Remote Sensing_**、**_IEEE Journal of Oceanic Engineering_** 和 **_Signal Processing-Image Communication_** 等。现主持**中国博士后科学基金**和**广西重点研发计划**项目。
 
-I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Technology_**, **_CCF Transactions on Pervasive Computing and Interaction_** and **_IEEE Signal Processing Letters_**.
+目前担任 **_IEEE Transactions on Circuits and Systems for Video Technology_**、**_CCF Transactions on Pervasive Computing and Interaction_** 和 **_IEEE Signal Processing Letters_** 等期刊的审稿人。
+
+
+
+
+
+
+
+
+
+
+
 
 # 📖 Educations
 - *2020.09 - 2024.12*, PhD, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University. 
