@@ -106,8 +106,7 @@ lang: zh
 </div>
 </div>
 
-- [A method for underwater image enhancement utilizing polarization inspired by the mantis shrimp’s multi-dimensional visual imaging mechanism](https://www.mdpi.com/2077-1312/14/6/582),
-  Qingyu Liu, Ruixin Li, Congcong Li, Canrong Chen, **Yifan Huang**, Huayu Yang, Fei Yuan, _Journal of Marine Science and Engineering_, 2026
+- [A method for underwater image enhancement utilizing polarization inspired by the mantis shrimp’s multi-dimensional visual imaging mechanism](https://www.mdpi.com/2077-1312/14/6/582), Qingyu Liu, Ruixin Li, Congcong Li, Canrong Chen, **Yifan Huang**, Huayu Yang, Fei Yuan, _Journal of Marine Science and Engineering_, 2026
 
 - [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, _IEEE Journal of Oceanic Engineering_, 2025
   
@@ -123,8 +122,7 @@ lang: zh
   
 - [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, _IEEE Access_, 2018
 
-</div>
-</div>
+<br>
 
 - 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, _数字海洋与水下攻防_, 2025
 
