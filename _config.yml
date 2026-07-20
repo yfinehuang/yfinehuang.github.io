@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan Huang (黄一凡)"
-description              : "Homepage"
+description              : 
 repository               : "yfinehuang/yfinehuang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Huang<br>(黄一凡)"
+  name             : "黄一凡<br>Yifan Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "桂林电子科技大学 副教授  Guilin University of Electronic Technology, Associate Professor"
-  location         : "中国 桂林 / Guilin, China"
+  bio              : "桂林电子科技大学 副教授  Associate Professor, GUET"
+  location         : "桂林, 中国 / Guilin, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8mFX-usAAAAJ"
