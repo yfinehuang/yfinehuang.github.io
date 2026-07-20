@@ -24,13 +24,28 @@ redirect_from:
   <a href="/zh/" target="_self">中文</a>
 </div>
 
-I am now working on **underwater information perception and processing research （水下信息感知与处理）**. I am currently an Associate Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). If you are interested in any form of academic cooperation, please feel free to contact me at <yfhuang@guet.edu.cn>. I will be recruiting master's students!
+My research primarily focuses on **underwater information perception and processing （水下信息感知与处理）**. I am currently an Associate Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). I welcome various forms of academic exchange and research collaboration. Please feel free to contact me at [yfhuang@guet.edu.cn](mailto:yfhuang@guet.edu.cn). I am continuously recruiting master's students, and students interested in related research topics are warmly encouraged to join my group!
 
-I earned my Ph.D. in **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)**, [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the guidance of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Chen Feng** (Ph.D. from Harbin Engineering University). My research focuses on underwater information acquisition, underwater intelligent perception, and computation. I specialize in areas such as underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual information perception. My work has yielded multiple research outcomes, including innovative contributions such as an underwater imaging curve reconstruction model, light attenuation compensation and multi-scale fusion enhancement algorithms, and underwater polarization-based clear imaging techniques, all of which significantly improve imaging quality and visual performance in complex aquatic environments.
+I received my Ph.D. from the **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)** at [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the supervision of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Professor Chen Feng**, who received his Ph.D. from Harbin Engineering University. My research interests include underwater information acquisition, underwater visual reconstruction, and underwater intelligent perception and computing. I have achieved several research outcomes in these areas, and the resulting techniques can effectively improve imaging quality and visual perception performance in complex underwater environments.
 
-On the topic of underwater visual reconstruction and image processing, I have published over 10 papers in authoritative international and domestic journals, including **_IEEE Transactions on Geoscience and Remote Sensing_**, **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing-Image Communication_**, etc. I have led research projects funded by the **China Postdoctoral Science Foundation** and **Guangxi Key Research and Development Program**.
+In the fields of underwater visual reconstruction and intelligent image processing, I have published more than 10 papers in leading international and domestic journals, including **_IEEE Transactions on Geoscience and Remote Sensing_**, **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing-Image Communication_**, etc. I am currently the principal investigator of research projects funded by the **China Postdoctoral Science Foundation** and the **Guangxi Key Research and Development Program**.
 
-I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Technology_**, **_CCF Transactions on Pervasive Computing and Interaction_** and **_IEEE Signal Processing Letters_**.
+I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video Technology_**, **_CCF Transactions on Pervasive Computing and Interaction_** and **_IEEE Signal Processing Letters_**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 📖 Educations
 - *2020.09 - 2024.12*, PhD, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University. 
