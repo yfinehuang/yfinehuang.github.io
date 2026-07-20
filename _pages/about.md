@@ -156,3 +156,5 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - *2020.09 - 2021.08*, 厦门大学信息学院信息与通信工程系博士党支部, 担任党支部副书记、组织委员
 - *2017.09 - 2020.06*, 厦门大学信息学院信息与通信工程系, 担任班长、团支部副书记
 - *2015.09 - 2016.06*, 厦门大学信息学院通信工程系, 担任宣传委员
+
+<!-- rebuild pages -->
