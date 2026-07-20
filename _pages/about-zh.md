@@ -22,13 +22,13 @@ lang: zh
   <span class="lang-current">中文</span>
 </div>
 
-我目前主要从事**水下信息感知与处理研究**。现任[桂林电子科技大学](https://www.guet.edu.cn/)信息与通信学院副教授。欢迎开展各种形式的学术交流与科研合作，可通过邮箱 [yfhuang@guet.edu.cn](mailto:yfhuang@guet.edu.cn) 与我联系。本人长期招收硕士研究生，欢迎对相关研究方向感兴趣的同学加入！
+我主要从事**水下信息感知与处理**研究，现任[桂林电子科技大学](https://www.guet.edu.cn/)信息与通信学院副教授。欢迎围绕相关研究方向开展学术交流与科研合作，可通过邮箱 [yfhuang@guet.edu.cn](mailto:yfhuang@guet.edu.cn) 与我联系。长期招收硕士研究生，欢迎对水下视觉、水下信息智能感知及相关研究方向感兴趣的同学报考并加入课题组！
 
-我于[厦门大学](https://www.xmu.edu.cn/)**水声通信与海洋信息技术教育部重点实验室**获得博士学位，师从[程恩教授](https://informatics.xmu.edu.cn/old/info/1021/46130.htm)和[袁飞教授](https://informatics.xmu.edu.cn/old/info/1021/24079.htm)。博士后合作导师为**陈峰教授**，其博士毕业于哈尔滨工程大学。我的研究主要聚焦于水下信息获取、水下视觉重建以及水下智能感知与计算等方向。目前已取得多项研究成果，相关技术能够有效提升复杂水环境下的成像质量与视觉感知效果。
+我于[厦门大学](https://www.xmu.edu.cn/)**水声通信与海洋信息技术教育部重点实验室**获得博士学位，师从[程恩教授](https://informatics.xmu.edu.cn/old/info/1021/46130.htm)和[袁飞教授](https://informatics.xmu.edu.cn/old/info/1021/24079.htm)，博士后合作导师为**陈峰教授**。我的研究方向主要包括水下信息获取、水下视觉重建以及水下智能感知与计算，重点关注水下物理成像建模、水下图像增强、水下目标检测和偏振视觉感知等问题，致力于提升复杂水环境下的成像质量与视觉感知能力。
 
-在水下视觉重建与图像智能处理领域，我已在国内外权威期刊发表论文10余篇，包括 **_IEEE Transactions on Geoscience and Remote Sensing_**、**_IEEE Journal of Oceanic Engineering_** 和 **_Signal Processing-Image Communication_** 等。现主持**中国博士后科学基金**和**广西重点研发计划**项目。
+在水下视觉重建与图像智能处理领域，我已在 **_IEEE Transactions on Geoscience and Remote Sensing_**、**_IEEE Journal of Oceanic Engineering_** 和 **_Signal Processing: Image Communication_** 等国内外期刊发表论文10余篇。现主持**广西重点研发计划项目**和**中国博士后科学基金面上资助项目**。
 
-目前担任 **_IEEE Transactions on Circuits and Systems for Video Technology_**、**_CCF Transactions on Pervasive Computing and Interaction_** 和 **_IEEE Signal Processing Letters_** 等期刊的审稿人。
+受邀担任 **_IEEE Transactions on Circuits and Systems for Video Technology_**、**_CCF Transactions on Pervasive Computing and Interaction_** 和 **_IEEE Signal Processing Letters_** 等期刊的审稿人。
 
 # 📖 教育经历
 - *2020.09 - 2024.12*, 博士，厦门大学 水声通信与海洋信息技术教育部重点实验室
