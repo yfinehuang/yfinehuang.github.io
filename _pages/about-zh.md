@@ -40,15 +40,20 @@ lang: zh
 - *2025.02至今*, 桂林电子科技大学，信息与通信学院，博士后
 
 # 🔥 最新动态
-- *2026.05*: &nbsp;🎉🎉 一篇论文获 _IEEE Transactions on Geoscience and Remote Sensing_ 录用!
-- *2026.03*: &nbsp;🎉🎉 一篇论文获 _Journal of Marine Science and Engineering_ 录用!
+- *2026.05*: &nbsp;🎉🎉 论文被 _IEEE Transactions on Geoscience and Remote Sensing_ 录用!
+- *2026.03*: &nbsp;🎉🎉 论文被 _Journal of Marine Science and Engineering_ 录用!
 - *2025.12*: &nbsp;🎉🎉 获批广西重点研发计划项目！
 - *2025.12*: &nbsp;🎉🎉 获批中国博士后科学基金项目！
-- *2025.05*: &nbsp;🎉🎉 一篇论文获 _Journal of Real-Time Image Processing_ 录用!
-- *2025.02*: &nbsp;🎉🎉 一篇论文获 _IEEE Journal of Oceanic Engineering_ 录用!
-- *2024.10*: &nbsp;🎉🎉 一篇论文获 _IEEE Transactions on Geoscience and Remote Sensing_ 录用!
-- *2024.03*: &nbsp;🎉🎉 一篇论文获 _Remote Sensing_ 录用!
-- *2023.04*: &nbsp;🎉🎉 一篇论文获 _IEEE Journal of Oceanic Engineering_ 录用!
+- *2025.05*: &nbsp;🎉🎉 论文被 _Journal of Real-Time Image Processing_ 录用!
+- *2025.02*: &nbsp;🎉🎉 论文被 _IEEE Journal of Oceanic Engineering_ 录用!
+- *2024.10*: &nbsp;🎉🎉 论文被 _IEEE Transactions on Geoscience and Remote Sensing_ 录用!
+- *2024.03*: &nbsp;🎉🎉 论文被 _Remote Sensing_ 录用!
+- *2023.04*: &nbsp;🎉🎉 论文被 _IEEE Journal of Oceanic Engineering_ 录用!
+
+# 💎 科研项目
+- *2026.01至今*, **广西重点研发计划项目**, 面向AUV编队协同的成像声纳智能感知技术研究, 470万元, 在研, **主持**
+- *2026.01至今*, **中国博士后科学基金面上资助**, 融合物理-仿生机制的水下场景视觉重建关键技术研究, 8万元, 在研, **主持**
+- *2021.01 - 2024.12*, **国家自然科学基金面上项目**, 融合视觉感知与优化学习的水下图像端到端传输方法研究, 56万元, 结题, **学生技术负责人**
 
 
 
@@ -57,9 +62,7 @@ lang: zh
 
 
 
-
-
-# 📝 代表性论文
+# 📝 代表论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,10 +139,7 @@ lang: zh
   
 - [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **厦门大学学报 (自然科学版) 2017**
 
-# 💎 Projects
-- *2026.01 - 2028.12*, **广西重点研发计划项目**, 面向AUV编队协同的成像声纳智能感知技术研究, 470万元, 在研, **主持**
-- *2026.01 - 2028.02*, **中国博士后科学基金第78批面上资助**(2025M780263), 融合物理-仿生机制的水下场景视觉重建关键技术研究, 8万元, 在研, **主持**
-- *2021.01 - 2024.12*, **国家自然科学基金委员会面上项目** (62071401), 融合视觉感知与优化学习的水下图像端到端传输方法研究, 56万元, 结题, **学生技术负责人**
+
 
 # ⭐ Patents
 - [公开] 一种融合全局-局部偏振特征的水下浑浊图像增强方法, **黄一凡**, 周强, 陈峰, 刘亚琛, 陈哲, 吴昌灵, 唐林驰, 2026
