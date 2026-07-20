@@ -52,6 +52,11 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
 - *2024.03*: &nbsp;🎉🎉 A paper has been accepted for publication in _Remote Sensing_!
 - *2023.04*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Journal of Oceanic Engineering_!
 
+# 💎 Projects
+- *2026.04 - Present*, **Guangxi Key Research and Development Program**, Intelligent Perception Technologies for Imaging Sonar in Cooperative AUV Formations, RMB 4.70 million, ongoing, **Principal Investigator**
+- *2026.01 - Present*, **China Postdoctoral Science Foundation**, Key Technologies for Underwater Scene Visual Reconstruction Integrating Physics-Based and Bio-Inspired Mechanisms, RMB 80,000, ongoing, **Principal Investigator**
+- *2021.01 - 2024.12*, **General Program of the National Natural Science Foundation of China (NSFC)**, End-to-End Underwater Image Transmission via Visual Perception and Optimization Learning, RMB 560,000, completed, **Technical Lead**
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
@@ -129,49 +134,25 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
   
 - [The Video Monitoring System of Water Quality Based on Stress Behavior Analysis of Fish](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **HUANG Yifan**, CHEN Xin, YUAN Fei, _Journal of Xiamen University (Natural Science)_, 2017
 
-# 💎 Projects
-- *2026.04 - Present*, **Guangxi Key Research and Development Program**, Intelligent Perception Technologies for Imaging Sonar in Cooperative AUV Formations, RMB 4.70 million, ongoing, **Principal Investigator**
-- *2026.01 - Present*, **China Postdoctoral Science Foundation**, Key Technologies for Underwater Scene Visual Reconstruction Integrating Physics-Based and Bio-Inspired Mechanisms, RMB 80,000, ongoing, **Principal Investigator**
-- *2021.01 - 2024.12*, **General Program of the National Natural Science Foundation of China**, End-to-End Underwater Image Transmission via Visual Perception and Optimization Learning, RMB 560,000, completed, **Technical Lead**
-
-
-
-
-
-
-
-
-
 # ⭐ Patents
-- [公开] 一种融合全局-局部偏振特征的水下浑浊图像增强方法, **黄一凡**, 周强, 陈峰, 刘亚琛, 陈哲, 吴昌灵, 唐林驰, 2026
-- [公开] 具有可控零点的N阶全向可调差分波束形成器及设计方法, 陈峰, 唐林驰, **黄一凡**, 张睿, 陈玉坤, 黎永生, 陈哲, 彭捷, 吴昌灵, 韩宝进, 谢礼聪, 2025
-- [公开] 一种矢量小孔径任意平面阵列可调向波束形成方法, 陈峰, 陈哲, 韩宝进, **黄一凡**, 仇洪冰, 王俊义, 彭捷, 李燕龙, 唐林驰, 谢礼聪, 2025
-- [公开] 一种基于特征值梯度跃变的半谱搜索DOA估计方法, 陈峰, 韩宝进, **黄一凡**, 张睿, 陈玉坤, 黎永生, 陈哲, 彭捷, 吴昌灵, 唐林驰, 谢礼聪, 2025
-- [公开] 基于偏振感知的水下低光图像增强方法及装置, 薛畅, **黄一凡**, 袁飞, 2024
-- [授权] 基于红色斑马鱼应激行为的水质异常检测与分级报警方法, 程恩, **黄一凡**, 朱逸, 袁飞, 陈柯宇, 2019
+- [Published] A Method for Turbid Underwater Image Enhancement via Global-Local Polarimetric Feature Fusion, **Yifan Huang**, Qiang Zhou, Feng Chen, Yachen Liu, Zhe Chen, Changling Wu, Linchi Tang, 2026
+- [Published] An Nth-Order Omnidirectional Steerable Differential Beamformer with Controllable Nulls and Its Design Method, Feng Chen, Linchi Tang, **Yifan Huang**, Rui Zhang, Yukun Chen, Yongsheng Li, Zhe Chen, Jie Peng, Changling Wu, Baojin Han, Licong Xie, 2025
+- [Published] A Steerable Beamforming Method for Arbitrary Small-Aperture Planar Vector-Sensor Arrays, Feng Chen, Zhe Chen, Baojin Han, **Yifan Huang**, Hongbing Qiu, Junyi Wang, Jie Peng, Yanlong Li, Linchi Tang, Licong Xie, 2025
+- [Published] A Half-Spectral Search DOA Estimation Method Based on Eigenvalue Gradient Jumps, Feng Chen, Baojin Han, **Yifan Huang**, Rui Zhang, Yukun Chen, Yongsheng Li, Zhe Chen, Jie Peng, Changling Wu, Linchi Tang, Licong Xie, 2025
+- [Published] A Polarization-Aware Method and Device for Underwater Low-Light Image Enhancement, Chang Xue, **Yifan Huang**, Fei Yuan, 2024
+- [Granted] A Method for Water Quality Anomaly Detection and Graded Warning Based on the Stress Behavior of Red Zebrafish, En Cheng, **Yifan Huang**, Yi Zhu, Fei Yuan, Keyu Chen, 2019
 
-# 🥇 Competitions and Awards
-- *2020* 厦门大学优秀毕业生
-- *2019* 厦门大学优秀团员 厦门大学三好学生
-- *2018* 厦门大学优秀团员 厦门大学优秀学生干部 优秀共产党员
-- *2018* 第四届中国研究生移动终端应用设计创新大赛二等奖
-- *2018* "兆易创新杯"第十四届中国研究生电子设计竞赛全国赛区二等奖、华东赛区一等奖
-- *2017* 厦门大学十佳志愿者 2016-2017学年度支教工作优秀教师、先进个人
-- *2016* "高等教育质量与就业：内部质量保障的贡献"国际研讨会志愿者荣誉证书
-- *2016* 海原县"纪念红军长征胜利80周年主题演讲比赛"优秀奖
+# 🥇 Honors and Awards
+- *2020*, Outstanding Graduate, Xiamen University
+- *2018*, Second Prize, the 4th China Graduate Mobile Terminal Application Design Innovation Competition
+- *2018*, National Second Prize and East China Regional First Prize, the 14th “GigaDevice Cup” China Graduate Electronics Design Contest
+- *2017*, Top Ten Volunteer, Xiamen University
 
-# 💬 Lectures and Forums
-- *2025.11*, "水下智能感知与科研探索之旅", 桂电论坛通识教育讲座计划 
-- *2023.11*, "基于零参考深度网络的水下图像增强", 第六届全国海洋光学技术交流会优秀学生报告
+# 💬 Invited Talks and Presentations
+- *2025.11*, “Underwater Intelligent Perception and the Journey of Scientific Research,” General Education Lecture Series, Guilin University of Electronic Technology
+- *2023.11*, “Underwater Image Enhancement Based on Zero-Reference Deep Networks,” the 6th National Symposium on Marine Optical Technology, **Outstanding Student Presentation Award**
 
-# 💻 Internships
-- *2019.07 - 2019.08*, 中铁工程装备集团有限公司设研总院, 实习
-- *2015.11 - 2016.01*, 福建省厦门市厦门大学附属科技中学, 教学培训见习
-  
 # ⚡ Social Services
-- *2016.08 - 2017.08*, 宁夏回族自治区中卫市海原县回民中学, 研究生支教服务工作, 共青团中央、教育部中国青年志愿者扶贫接力计划
-- *2020.09 - 2021.08*, 厦门大学信息学院信息与通信工程系博士党支部, 担任党支部副书记、组织委员
-- *2017.09 - 2020.06*, 厦门大学信息学院信息与通信工程系, 担任班长、团支部副书记
-- *2015.09 - 2016.06*, 厦门大学信息学院通信工程系, 担任宣传委员
+- *2016.08 - 2017.08*, Volunteer Teacher, Hui Middle School of Haiyuan County, Ningxia, under the Graduate Volunteer Teaching Program jointly organized by the Central Committee of the Communist Youth League of China and the Ministry of Education
 
 <!-- rebuild pages -->
