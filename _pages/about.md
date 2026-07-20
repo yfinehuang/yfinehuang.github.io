@@ -41,6 +41,7 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
 - *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Associate Professor
 - *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Postdoctoral Researcher
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_!
 - *2026.03*: &nbsp;🎉🎉 A paper has been accepted for publication in _Journal of Marine Science and Engineering_!
@@ -52,11 +53,13 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
 - *2024.03*: &nbsp;🎉🎉 A paper has been accepted for publication in _Remote Sensing_!
 - *2023.04*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Journal of Oceanic Engineering_!
 
+<span class='anchor' id='projects'></span>
 # 💎 Research Projects
 - *2026.04 - Present*, **Guangxi Key Research and Development Program**, Intelligent Perception Technologies for Imaging Sonar in Cooperative AUV Formations, RMB 4.70 million, ongoing, **Principal Investigator**
 - *2026.01 - Present*, **China Postdoctoral Science Foundation**, Key Technologies for Underwater Scene Visual Reconstruction Integrating Physics-Based and Bio-Inspired Mechanisms, RMB 80,000, ongoing, **Principal Investigator**
 - *2021.01 - 2024.12*, **General Program of the National Natural Science Foundation of China (NSFC)**, End-to-End Underwater Image Transmission via Visual Perception and Optimization Learning, RMB 560,000, completed, **Technical Lead**
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
@@ -134,6 +137,7 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
   
 - [The Video Monitoring System of Water Quality Based on Stress Behavior Analysis of Fish](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **HUANG Yifan**, CHEN Xin, YUAN Fei, _Journal of Xiamen University (Natural Science)_, 2017
 
+<span class='anchor' id='patents'></span>
 # ⭐ Patents
 - [Published] A Method for Turbid Underwater Image Enhancement via Global-Local Polarimetric Feature Fusion, **Yifan Huang**, Qiang Zhou, Feng Chen, Yachen Liu, Zhe Chen, Changling Wu, Linchi Tang, 2026
 - [Published] An Nth-Order Omnidirectional Steerable Differential Beamformer with Controllable Nulls and Its Design Method, Feng Chen, Linchi Tang, **Yifan Huang**, Rui Zhang, Yukun Chen, Yongsheng Li, Zhe Chen, Jie Peng, Changling Wu, Baojin Han, Licong Xie, 2025
@@ -142,10 +146,12 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
 - [Published] A Polarization-Aware Method and Device for Underwater Low-Light Image Enhancement, Chang Xue, **Yifan Huang**, Fei Yuan, 2024
 - [Granted] A Method for Water Quality Anomaly Detection and Graded Warning Based on the Stress Behavior of Red Zebrafish, En Cheng, **Yifan Huang**, Yi Zhu, Fei Yuan, Keyu Chen, 2019
 
+<span class='anchor' id='academic-activities'></span>
 # 💬 Invited Talks & Presentations
 - *2025.11*, “Underwater Intelligent Perception and the Journey of Scientific Research,” General Education Lecture Series, Guilin University of Electronic Technology
 - *2023.11*, “Underwater Image Enhancement Based on Zero-Reference Deep Networks,” the 6th National Symposium on Marine Optical Technology, **Outstanding Student Presentation Award**
 
+<span class='anchor' id='honors'></span>
 # 🥇 Honors & Awards
 - *2020*, Outstanding Graduate, Xiamen University
 - *2018*, Second Prize, the 4th China Graduate Mobile Terminal Application Design Innovation Competition
