@@ -166,3 +166,20 @@ h1:before, .anchor:before {
 .lang-switch .lang-separator {
   color: #8c959f;
 }
+
+/* Desktop: align language switch to the right */
+.page__content .lang-switch {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+}
+
+/* Mobile: center the language switch */
+@media screen and (max-width: 600px) {
+  .page__content .lang-switch {
+    justify-content: center;
+    margin-top: 0.5rem;
+    margin-bottom: 1.2rem;
+  }
+}
