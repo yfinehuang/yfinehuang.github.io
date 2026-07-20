@@ -122,3 +122,41 @@ h1:before, .anchor:before {
   margin-bottom: 0.55rem;
 }
 }
+
+.lang-switch {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.lang-switch a,
+.lang-switch .lang-current {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  border-radius: 999px;
+  text-decoration: none;
+}
+
+.lang-switch a {
+  border: 1px solid #d0d7de;
+  color: #0366d6;
+  background: #fff;
+}
+
+.lang-switch a:hover {
+  background: #f3f4f6;
+  text-decoration: none;
+}
+
+.lang-switch .lang-current {
+  color: #fff;
+  background: #3f4954;
+  font-weight: 600;
+}
+
+.lang-switch .lang-separator {
+  color: #999;
+}
