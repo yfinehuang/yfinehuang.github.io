@@ -30,25 +30,21 @@ lang: zh
 
 目前担任 **_IEEE Transactions on Circuits and Systems for Video Technology_**、**_CCF Transactions on Pervasive Computing and Interaction_** 和 **_IEEE Signal Processing Letters_** 等期刊的审稿人。
 
-
-
-
-
-
-
-
-
-
-
-
 # 📖 Educations
-- *2020.09 - 2024.12*, PhD, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University. 
-- *2017.09 - 2020.06*, Master, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University.
-- *2012.09 - 2016.06*, Undergraduate, School of Information, Xiamen University.
+- *2020.09 - 2024.12*, 博士，[厦门大学](https://www.xmu.edu.cn/)水声通信与海洋信息技术教育部重点实验室。
+- *2017.09 - 2020.06*, 硕士，[厦门大学](https://www.xmu.edu.cn/)水声通信与海洋信息技术教育部重点实验室。
+- *2012.09 - 2016.06*, 本科，[厦门大学](https://www.xmu.edu.cn/)信息学院。
 
 # 🌼 Work Experiences
-- *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Associate Professor
-- *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Postdoctoral Researcher
+- *2025.02至今*, 桂林电子科技大学，信息与通信学院，副教授
+- *2025.02至今*, 桂林电子科技大学，信息与通信学院，博士后
+
+
+
+
+
+
+
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by _IEEE Transactions on Geoscience and Remote Sensing_!
