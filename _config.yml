@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yifan Huang (黄一凡)"
+title                    : "Yifan Huang<br>(黄一凡)"
 description              : "Homepage"
 repository               : "yfinehuang/yfinehuang.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,7 +25,7 @@ author:
   (黄一凡)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "桂林电子科技大学 副教授  Guilin University of Electronic Technology, Associate Professor"
-  location         : "桂林 中国 / Guilin, China"
+  location         : "中国 桂林 / Guilin, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8mFX-usAAAAJ"
