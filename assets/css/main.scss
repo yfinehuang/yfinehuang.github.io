@@ -167,3 +167,12 @@ h1:before, .anchor:before {
   color: #8c959f;
 }
 
+/* Language switch: right aligned on mobile */
+@media screen and (max-width: 600px) {
+  .page__content .lang-switch {
+    display: flex !important;
+    justify-content: flex-end !important;
+    width: 100% !important;
+    margin: 1rem 0 1.3rem !important;
+  }
+}
