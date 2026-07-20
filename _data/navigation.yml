@@ -1,7 +1,13 @@
-# main links links
+# English navigation
 main:
   - title: "About Me"
     url: "/#about-me"
+
+  - title: "Education"
+    url: "/#-educations"
+
+  - title: "Work"
+    url: "/#-work-experiences"
 
   - title: "News"
     url: "/#-news"
@@ -9,14 +15,44 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Projects"
+    url: "/#-projects"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Patents"
+    url: "/#-patents"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Awards"
+    url: "/#-competitions-and-awards"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "中文"
+    url: "/zh/"
+
+
+# Chinese navigation
+main_zh:
+  - title: "个人简介"
+    url: "/zh/#about-me"
+
+  - title: "教育经历"
+    url: "/zh/#zh-education"
+
+  - title: "工作经历"
+    url: "/zh/#zh-work"
+
+  - title: "最新动态"
+    url: "/zh/#zh-news"
+
+  - title: "代表性论文"
+    url: "/zh/#zh-publications"
+
+  - title: "科研项目"
+    url: "/zh/#zh-projects"
+
+  - title: "专利"
+    url: "/zh/#zh-patents"
+
+  - title: "竞赛与奖励"
+    url: "/zh/#zh-awards"
+
+  - title: "English"
+    url: "/"
