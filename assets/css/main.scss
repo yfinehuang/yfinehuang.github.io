@@ -98,16 +98,17 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: absolute;
+  margin-top: 0.5em;
+  margin-left: -0.5em;
+  color: white;
+  background-color: #00369f;
+  font-size: 0.8em;
+}
 
-
+/* Sidebar spacing */
 .sidebar .author__name {
   line-height: 1.25;
   margin-bottom: 0.65rem;
@@ -121,42 +122,47 @@ h1:before, .anchor:before {
 .sidebar .author__urls li {
   margin-bottom: 0.55rem;
 }
-}
 
+/* Language switch */
 .lang-switch {
   display: flex;
   justify-content: flex-end;
   align-items: center;
   gap: 0.45rem;
-  margin-bottom: 1rem;
+  margin: 0.25rem 0 1.25rem;
   font-size: 0.9rem;
 }
 
-.lang-switch a,
-.lang-switch .lang-current {
+.page__content .lang-switch a,
+.page__content .lang-switch .lang-current {
   display: inline-block;
-  padding: 0.3rem 0.65rem;
+  padding: 0.35rem 0.8rem;
   border-radius: 999px;
+  line-height: 1.3;
   text-decoration: none;
 }
 
-.lang-switch a {
-  border: 1px solid #d0d7de;
+.page__content .lang-switch a {
+  border: 1px solid #c9d1d9;
   color: #0366d6;
-  background: #fff;
+  background-color: #ffffff;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
 }
 
-.lang-switch a:hover {
-  background: #f3f4f6;
+.page__content .lang-switch a:hover {
+  color: #024ea2;
+  background-color: #f3f4f6;
   text-decoration: none;
 }
 
-.lang-switch .lang-current {
-  color: #fff;
-  background: #3f4954;
+.page__content .lang-switch .lang-current {
+  border: 1px solid #3f4954;
+  color: #ffffff;
+  background-color: #3f4954;
   font-weight: 600;
 }
 
 .lang-switch .lang-separator {
-  color: #999;
+  color: #8c959f;
 }
