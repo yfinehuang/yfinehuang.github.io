@@ -55,13 +55,6 @@ lang: zh
 - *2026.01 至今*, **中国博士后科学基金面上资助**, 融合物理-仿生机制的水下场景视觉重建关键技术研究, 8万元, 在研, **主持**
 - *2021.01 - 2024.12*, **国家自然科学基金面上项目**, 融合视觉感知与优化学习的水下图像端到端传输方法研究, 56万元, 结题, **学生技术负责人**
 
-
-
-
-
-
-
-
 # 📝 代表论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
@@ -69,7 +62,7 @@ lang: zh
 
 [Turbid Underwater Image Enhancement via Global-Local Polarimetric Feature Fusion](https://ieeexplore.ieee.org/abstract/document/11501279)
 
-**Yifan Huang**, Qiang Zhou, Congcong Li, Feng Chen, En Cheng, Fei Yuan, **_IEEE Transactions on Geoscience and Remote Sensing_**, 2026
+**Yifan Huang**, Qiang Zhou, Congcong Li, Feng Chen, En Cheng, Fei Yuan, _IEEE Transactions on Geoscience and Remote Sensing_, 2026
 
 </div>
 </div>
@@ -79,7 +72,7 @@ lang: zh
 
 [Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685)
 
-**Yifan Huang**, Fei Yuan, Fengqi Xiao, Jianxiang Lu, En Cheng, **_IEEE Journal of Oceanic Engineering_**, 2023
+**Yifan Huang**, Fei Yuan, Fengqi Xiao, Jianxiang Lu, En Cheng, _IEEE Journal of Oceanic Engineering_, 2023
 
 </div>
 </div>
@@ -89,7 +82,7 @@ lang: zh
   
 [Underwater image enhancement based on color restoration and dual image wavelet fusion](https://www.sciencedirect.com/science/article/pii/S0923596522001035)
 
-**Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, **_Signal Processing: Image Communicationg_**, 2022
+**Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, _Signal Processing: Image Communicationg_, 2022
 
 </div>
 </div>
@@ -99,7 +92,7 @@ lang: zh
   
 [Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254)
 
-**Yifan Huang**, Manyu Liu, Fei Yuan, **_Signal Processing: Image Communicationg_**, 2021
+**Yifan Huang**, Manyu Liu, Fei Yuan, _Signal Processing: Image Communicationg_, 2021
 
 </div>
 </div>
@@ -108,46 +101,51 @@ lang: zh
   
 [Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761)
   
-**Yifan Huang**, Weixiang Li, Fei Yuan, **_Journal of marine science and engineering_**, 2020
+**Yifan Huang**, Weixiang Li, Fei Yuan, _Journal of marine science and engineering_, 2020
 
 </div>
 </div>
 
-- [A method for underwater image enhancement utilizing polarization inspired by the mantis shrimp’s multi-dimensional visual imaging mechanism](https://www.mdpi.com/2077-1312/14/6/582), Qingyu Liu, Ruixin Li, Congcong Li, Canrong Chen, **Yifan Huang**, Huayu Yang, Fei Yuan, **_Journal of Marine Science and Engineering_**, 2026
+- [A method for underwater image enhancement utilizing polarization inspired by the mantis shrimp’s multi-dimensional visual imaging mechanism](https://www.mdpi.com/2077-1312/14/6/582),
+  Qingyu Liu, Ruixin Li, Congcong Li, Canrong Chen, **Yifan Huang**, Huayu Yang, Fei Yuan, _Journal of Marine Science and Engineering_, 2026
 
-- [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **_IEEE Journal of Oceanic Engineering_**, 2025
+- [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, _IEEE Journal of Oceanic Engineering_, 2025
   
-- [Lightweight Dual-Antagonistic Underwater Image Enhancement Network: A High-Performance Real-Time Approach Combining Knowledge Distillation](https://www.researchsquare.com/article/rs-6451625/v1), Zhiqi Fu, Yuxiang Shen, **Yifan Huang**, Fei Yuan, **_Journal of Real-Time ImageProcessing_**, 2025
+- [Lightweight Dual-Antagonistic Underwater Image Enhancement Network: A High-Performance Real-Time Approach Combining Knowledge Distillation](https://www.researchsquare.com/article/rs-6451625/v1), Zhiqi Fu, Yuxiang Shen, **Yifan Huang**, Fei Yuan, _Journal of Real-Time ImageProcessing_, 2025
   
-- [Neuromorphic computing network for underwater image enhancement and beyond](https://ieeexplore.ieee.org/abstract/document/10704737), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **_IEEE Transactions on Geoscience and Remote Sensing_**, 2024
+- [Neuromorphic computing network for underwater image enhancement and beyond](https://ieeexplore.ieee.org/abstract/document/10704737), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, _IEEE Transactions on Geoscience and Remote Sensing_, 2024
   
-- [A dual-branch autoencoder network for underwater low-light polarized image enhancement](https://www.mdpi.com/2072-4292/16/7/1134), Chang Xue, Qingyu Liu, **Yifan Huang**, En Cheng, Fei Yuan, **_Remote Sensing_**, 2024
+- [A dual-branch autoencoder network for underwater low-light polarized image enhancement](https://www.mdpi.com/2072-4292/16/7/1134), Chang Xue, Qingyu Liu, **Yifan Huang**, En Cheng, Fei Yuan, _Remote Sensing_, 2024
   
-- [Turbid Underwater Image Enhancement Based on Parameter-Tuned Stochastic Resonance](https://ieeexplore.ieee.org/abstract/document/9880475), Fengqi Xiao, Fei Yuan, **Yifan Huang**, En Cheng, **_IEEE Journal of Oceanic Engineering_**, 2022
+- [Turbid Underwater Image Enhancement Based on Parameter-Tuned Stochastic Resonance](https://ieeexplore.ieee.org/abstract/document/9880475), Fengqi Xiao, Fei Yuan, **Yifan Huang**, En Cheng, _IEEE Journal of Oceanic Engineering_, 2022
   
-- [Noise reduction for sonar images by statistical analysis and fields of experts](https://www.sciencedirect.com/science/article/pii/S104732032030211X), Fei Yuan, Fengqi Xiao, Kaihan Zhang, **Yifan Huang**, En Cheng, **_Journal of Visual Communication and Image Representation_**, 2021
+- [Noise reduction for sonar images by statistical analysis and fields of experts](https://www.sciencedirect.com/science/article/pii/S104732032030211X), Fei Yuan, Fengqi Xiao, Kaihan Zhang, **Yifan Huang**, En Cheng, _Journal of Visual Communication and Image Representation_, 2021
   
-- [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, **_IEEE Access_**, 2018
+- [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, _IEEE Access_, 2018
 
-- 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, **_数字海洋与水下攻防_**, 2025
+</div>
+</div>
 
-- 瑞利复杂度–色散熵平面:一种新的水声信号非线性特征提取方法, 彭蕾, 陈哲, 张语欣, 王清麟, **黄一凡**, **_数字海洋与水下攻防_**, 2025
+- 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, _数字海洋与水下攻防_, 2025
 
-- 基于特征值梯度跃变的半谱搜索DOA估计算法, 韩宝进, 阮诗乔, 张语欣, 钟博远, 陈哲, **黄一凡**, **_数字海洋与水下攻防_**, 2025
+- 瑞利复杂度–色散熵平面:一种新的水声信号非线性特征提取方法, 彭蕾, 陈哲, 张语欣, 王清麟, **黄一凡**, _数字海洋与水下攻防_, 2025
 
-- 基于噪声子空间重构的矢量阵MUSIC改进算法, 唐林驰, 韩宝进, **黄一凡(通讯)**, 周强, **_数字海洋与水下攻防_**, 2025
+- 基于特征值梯度跃变的半谱搜索DOA估计算法, 韩宝进, 阮诗乔, 张语欣, 钟博远, 陈哲, **黄一凡**, _数字海洋与水下攻防_, 2025
+
+- 基于噪声子空间重构的矢量阵MUSIC改进算法, 唐林驰, 韩宝进, **黄一凡 (通讯)**, 周强, _数字海洋与水下攻防_, 2025
   
-- [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **_厦门大学学报 (自然科学版)_**, 2017
+- [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, _厦门大学学报 (自然科学版)_, 2017
 
-
-
-# ⭐ Patents
+# ⭐ 发明专利
 - [公开] 一种融合全局-局部偏振特征的水下浑浊图像增强方法, **黄一凡**, 周强, 陈峰, 刘亚琛, 陈哲, 吴昌灵, 唐林驰, 2026
 - [公开] 具有可控零点的N阶全向可调差分波束形成器及设计方法, 陈峰, 唐林驰, **黄一凡**, 张睿, 陈玉坤, 黎永生, 陈哲, 彭捷, 吴昌灵, 韩宝进, 谢礼聪, 2025
 - [公开] 一种矢量小孔径任意平面阵列可调向波束形成方法, 陈峰, 陈哲, 韩宝进, **黄一凡**, 仇洪冰, 王俊义, 彭捷, 李燕龙, 唐林驰, 谢礼聪, 2025
 - [公开] 一种基于特征值梯度跃变的半谱搜索DOA估计方法, 陈峰, 韩宝进, **黄一凡**, 张睿, 陈玉坤, 黎永生, 陈哲, 彭捷, 吴昌灵, 唐林驰, 谢礼聪, 2025
 - [公开] 基于偏振感知的水下低光图像增强方法及装置, 薛畅, **黄一凡**, 袁飞, 2024
 - [授权] 基于红色斑马鱼应激行为的水质异常检测与分级报警方法, 程恩, **黄一凡**, 朱逸, 袁飞, 陈柯宇, 2019
+
+
+
 
 # 🥇 Competitions and Awards
 - *2020* 厦门大学优秀毕业生
