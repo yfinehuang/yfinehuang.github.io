@@ -1,31 +1,25 @@
 # English navigation
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "Education"
-    url: "/#-educations"
-
-  - title: "Work"
-    url: "/#-work-experiences"
-
   - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
+    url: "/#zh-news"
 
   - title: "Projects"
     url: "/#-projects"
 
+  - title: "Publications"
+    url: "/#-publications"
+
   - title: "Patents"
     url: "/#-patents"
 
-  - title: "Awards"
-    url: "/#-competitions-and-awards"
+  - title: "Activities"
+    url: "/#academic-activities"
 
-  - title: "中文"
-    url: "/zh/"
+  - title: "Honors"
+    url: "/#-competitions-and-awards"
 
 
 # Chinese navigation
@@ -33,26 +27,20 @@ main_zh:
   - title: "个人简介"
     url: "/zh/#about-me"
 
-  - title: "教育经历"
-    url: "/zh/#zh-education"
-
-  - title: "工作经历"
-    url: "/zh/#zh-work"
-
   - title: "最新动态"
     url: "/zh/#zh-news"
 
-  - title: "代表性论文"
-    url: "/zh/#zh-publications"
-
   - title: "科研项目"
     url: "/zh/#zh-projects"
+    
+  - title: "研究成果"
+    url: "/zh/#zh-publications"
 
-  - title: "专利"
+  - title: "发明专利"
     url: "/zh/#zh-patents"
 
-  - title: "竞赛与奖励"
-    url: "/zh/#zh-awards"
+  - title: "学术活动"
+    url: "/zh/#zh-academic-activities"
 
-  - title: "English"
-    url: "/"
+  - title: "荣誉奖项"
+    url: "/zh/#zh-awards"
