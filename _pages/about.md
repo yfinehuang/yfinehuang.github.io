@@ -119,15 +119,15 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
   
 - [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, _IEEE Access_, 2018
 
-- 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, _数字海洋与水下攻防_, 2025
+- [Underwater Image Enhancement Based on Hyperbolic Imaging Correction Model](http://szhyysxgf.xml-journal.net/article/doi/10.19838/j.issn.2096-5753.2025.05.002), **HUANG Yifan**, LIU Yachen, CHEN Zhe, CHEN Feng, _DIGITAL OCEAN & UNDERWATER WARFARE_, 2025
 
-- 瑞利复杂度–色散熵平面:一种新的水声信号非线性特征提取方法, 彭蕾, 陈哲, 张语欣, 王清麟, **黄一凡**, _数字海洋与水下攻防_, 2025
+- [Rényi Complexity-Dispersion Entropy Plane:Novel Algorithm for Nonlinear Feature Extraction of Underwater Acoustic Signals](http://szhyysxgf.xml-journal.net/article/doi/10.19838/j.issn.2096-5753.2025.05.006), PENG Lei, CHEN Zhe, ZHANG Yuxing, WANG Qinglin, **HUANG Yifan**, _DIGITAL OCEAN & UNDERWATER WARFARE_, 2025
 
-- 基于特征值梯度跃变的半谱搜索DOA估计算法, 韩宝进, 阮诗乔, 张语欣, 钟博远, 陈哲, **黄一凡**, _数字海洋与水下攻防_, 2025
+- [Half-Spectral Search DOA Estimation Algorithm Based on Eigenvalue Gradient Jump](http://szhyysxgf.xml-journal.net/article/doi/10.19838/j.issn.2096-5753.2025.05.009), HAN Baojin, RUAN Shiqiao, ZHANG Yuxin, ZHONG Boyuan, CHEN Zhe, **HUANG Yifan**, _DIGITAL OCEAN & UNDERWATER WARFARE_, 2025
 
-- 基于噪声子空间重构的矢量阵MUSIC改进算法, 唐林驰, 韩宝进, **黄一凡 (通讯)**, 周强, _数字海洋与水下攻防_, 2025
+- [Improved MUSIC Algorithm for Vector Sensor Arrays Based on Noise Subspace Reconstruction](http://szhyysxgf.xml-journal.net/article/doi/10.19838/j.issn.2096-5753.2025.05.011), TANG Linchi, HAN Baojin, **HUANG Yifan***, ZHOU Qiang, _DIGITAL OCEAN & UNDERWATER WARFARE_, 2025
   
-- [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, _厦门大学学报 (自然科学版)_, 2017
+- [The Video Monitoring System of Water QualityBased on Stress Behavior Analysis of Fish](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **HUANG Yifan**, CHEN Xin, YUAN Fei, _Journal of Xiamen University (Natural Science)_, 2017
 
 # 💎 Projects
 - *2026.01 - 2028.12*, **广西重点研发计划项目**, 面向AUV编队协同的成像声纳智能感知技术研究, 470万元, 在研, **主持**
