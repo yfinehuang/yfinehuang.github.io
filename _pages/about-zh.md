@@ -46,7 +46,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='images/tgrs2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Turbid Underwater Image Enhancement via Global-Local Polarimetric Feature Fusion](https://ieeexplore.ieee.org/abstract/document/11501279)
@@ -56,7 +56,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JOE</div><img src='images/joe2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JOE</div><img src='/images/joe2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685)
@@ -66,7 +66,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='images/spic2020.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='/images/spic2020.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Underwater image enhancement based on color restoration and dual image wavelet fusion](https://www.sciencedirect.com/science/article/pii/S0923596522001035)
@@ -76,7 +76,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='images/spic2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='/images/spic2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254)
@@ -85,7 +85,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMSE</div><img src='images/jmse2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMSE</div><img src='/images/jmse2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761)
