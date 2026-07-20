@@ -106,4 +106,19 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+
+
+.sidebar .author__name {
+  line-height: 1.25;
+  margin-bottom: 0.65rem;
+}
+
+.sidebar .author__bio {
+  line-height: 1.45;
+  margin-bottom: 1rem;
+}
+
+.sidebar .author__urls li {
+  margin-bottom: 0.55rem;
+}
 }
