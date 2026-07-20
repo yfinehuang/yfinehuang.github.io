@@ -96,6 +96,7 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 </div>
 </div>
 
+- [A method for underwater image enhancement utilizing polarization inspired by the mantis shrimp’s multi-dimensional visual imaging mechanism](https://www.mdpi.com/2077-1312/14/6/582), Qingyu Liu, Ruixin Li, Congcong Li, Canrong Chen, **Yifan Huang**, Huayu Yang, Fei Yuan, **Journal of Marine Science and Engineering 2026**
 
 - [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **IEEE Journal of Oceanic Engineering 2025**
   
@@ -122,11 +123,12 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 - [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **厦门大学学报 (自然科学版) 2017**
 
 # 💎 Projects
-- *2026.01 - 2028.12*, **"赋能"行动计划（广西重点研发计划）**, 面向AUV编队协同的成像声纳智能感知技术研究, 200万元, 在研, **主持**
+- *2026.01 - 2028.12*, **广西重点研发计划项目**, 面向AUV编队协同的成像声纳智能感知技术研究, 470万元, 在研, **主持**
 - *2026.01 - 2028.02*, **中国博士后科学基金第78批面上资助**(2025M780263), 融合物理-仿生机制的水下场景视觉重建关键技术研究, 8万元, 在研, **主持**
 - *2021.01 - 2024.12*, **国家自然科学基金委员会面上项目** (62071401), 融合视觉感知与优化学习的水下图像端到端传输方法研究, 56万元, 结题, **学生技术负责人**
 
 # ⭐ Patents
+- [公开] 一种融合全局-局部偏振特征的水下浑浊图像增强方法, **黄一凡**, 周强, 陈峰, 刘亚琛, 陈哲, 吴昌灵, 唐林驰, 2026
 - [公开] 具有可控零点的N阶全向可调差分波束形成器及设计方法, 陈峰, 唐林驰, **黄一凡**, 张睿, 陈玉坤, 黎永生, 陈哲, 彭捷, 吴昌灵, 韩宝进, 谢礼聪, 2025
 - [公开] 一种矢量小孔径任意平面阵列可调向波束形成方法, 陈峰, 陈哲, 韩宝进, **黄一凡**, 仇洪冰, 王俊义, 彭捷, 李燕龙, 唐林驰, 谢礼聪, 2025
 - [公开] 一种基于特征值梯度跃变的半谱搜索DOA估计方法, 陈峰, 韩宝进, **黄一凡**, 张睿, 陈玉坤, 黎永生, 陈哲, 彭捷, 吴昌灵, 唐林驰, 谢礼聪, 2025
