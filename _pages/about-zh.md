@@ -39,6 +39,7 @@ lang: zh
 - *2025.02 至今*, 桂林电子科技大学，信息与通信学院，副教授
 - *2025.02 至今*, 桂林电子科技大学，信息与通信学院，博士后
 
+<span class='anchor' id='zh-news'></span>
 # 🔥 最新动态
 - *2026.05*: &nbsp;🎉🎉 论文被 _IEEE Transactions on Geoscience and Remote Sensing_ 录用!
 - *2026.03*: &nbsp;🎉🎉 论文被 _Journal of Marine Science and Engineering_ 录用!
@@ -50,11 +51,13 @@ lang: zh
 - *2024.03*: &nbsp;🎉🎉 论文被 _Remote Sensing_ 录用!
 - *2023.04*: &nbsp;🎉🎉 论文被 _IEEE Journal of Oceanic Engineering_ 录用!
 
+<span class='anchor' id='zh-projects'></span>
 # 💎 科研项目
 - *2026.01 至今*, **广西重点研发计划项目**, 面向AUV编队协同的成像声纳智能感知技术研究, 470万元, 在研, **主持**
 - *2026.01 至今*, **中国博士后科学基金面上资助**, 融合物理-仿生机制的水下场景视觉重建关键技术研究, 8万元, 在研, **主持**
 - *2021.01 - 2024.12*, **国家自然科学基金面上项目**, 融合视觉感知与优化学习的水下图像端到端传输方法研究, 56万元, 结题, **学生技术负责人**
 
+<span class='anchor' id='zh-publications'></span>
 # 📝 论文发表
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
@@ -132,6 +135,7 @@ lang: zh
   
 - [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, _厦门大学学报 (自然科学版)_, 2017
 
+<span class='anchor' id='zh-patents'></span>
 # ⭐ 发明专利
 - [公开] 一种融合全局-局部偏振特征的水下浑浊图像增强方法, **黄一凡**, 周强, 陈峰, 刘亚琛, 陈哲, 吴昌灵, 唐林驰, 2026
 - [公开] 具有可控零点的N阶全向可调差分波束形成器及设计方法, 陈峰, 唐林驰, **黄一凡**, 张睿, 陈玉坤, 黎永生, 陈哲, 彭捷, 吴昌灵, 韩宝进, 谢礼聪, 2025
@@ -140,10 +144,12 @@ lang: zh
 - [公开] 基于偏振感知的水下低光图像增强方法及装置, 薛畅, **黄一凡**, 袁飞, 2024
 - [授权] 基于红色斑马鱼应激行为的水质异常检测与分级报警方法, 程恩, **黄一凡**, 朱逸, 袁飞, 陈柯宇, 2019
 
+<span class='anchor' id='zh-academic-activities'></span>
 # 💬 特邀报告与学术交流
 - *2025.11*, "水下智能感知与科研探索之旅", 桂电论坛通识教育讲座计划 
 - *2023.11*, "基于零参考深度网络的水下图像增强", 第六届全国海洋光学技术交流会优秀学生报告
-  
+
+<span class='anchor' id='zh-awards'></span>
 # 🥇 荣誉奖项
 - *2020*, 厦门大学优秀毕业生
 - *2018*, 第四届中国研究生移动终端应用设计创新大赛二等奖
