@@ -30,15 +30,25 @@ lang: zh
 
 目前担任 **_IEEE Transactions on Circuits and Systems for Video Technology_**、**_CCF Transactions on Pervasive Computing and Interaction_** 和 **_IEEE Signal Processing Letters_** 等期刊的审稿人。
 
-# 📖 Educations
-- *2020.09 - 2024.12*, 博士，[厦门大学](https://www.xmu.edu.cn/)水声通信与海洋信息技术教育部重点实验室。
-- *2017.09 - 2020.06*, 硕士，[厦门大学](https://www.xmu.edu.cn/)水声通信与海洋信息技术教育部重点实验室。
-- *2012.09 - 2016.06*, 本科，[厦门大学](https://www.xmu.edu.cn/)信息学院。
+# 📖 教育经历
+- *2020.09 - 2024.12*, 博士，厦门大学 水声通信与海洋信息技术教育部重点实验室。
+- *2017.09 - 2020.06*, 硕士，厦门大学 水声通信与海洋信息技术教育部重点实验室。
+- *2012.09 - 2016.06*, 本科，厦门大学 信息学院。
 
-# 🌼 Work Experiences
+# 🌼 工作经历
 - *2025.02至今*, 桂林电子科技大学，信息与通信学院，副教授
 - *2025.02至今*, 桂林电子科技大学，信息与通信学院，博士后
 
+# 🔥 最新动态
+- *2026.05*: &nbsp;🎉🎉 一篇论文获 _IEEE Transactions on Geoscience and Remote Sensing_ 录用!
+- *2026.03*: &nbsp;🎉🎉 一篇论文获 _Journal of Marine Science and Engineering_ 录用!
+- *2025.12*: &nbsp;🎉🎉 获批广西重点研发计划项目！
+- *2025.12*: &nbsp;🎉🎉 获批中国博士后科学基金项目！
+- *2025.05*: &nbsp;🎉🎉 一篇论文获 _Journal of Real-Time Image Processing_ 录用!
+- *2025.02*: &nbsp;🎉🎉 一篇论文获 _IEEE Journal of Oceanic Engineering_ 录用!
+- *2024.10*: &nbsp;🎉🎉 一篇论文获 _IEEE Transactions on Geoscience and Remote Sensing_ 录用!
+- *2024.03*: &nbsp;🎉🎉 一篇论文获 _Remote Sensing_ 录用!
+- *2023.04*: &nbsp;🎉🎉 一篇论文获 _IEEE Journal of Oceanic Engineering_ 录用!
 
 
 
@@ -46,18 +56,10 @@ lang: zh
 
 
 
-# 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper is accepted by _IEEE Transactions on Geoscience and Remote Sensing_!
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by _Journal of Marine Science and Engineering_!
-- *2025.12*: &nbsp;🎉🎉 I award a grant from the Guangxi Key Research and Development Program!
-- *2025.12*: &nbsp;🎉🎉 I award a grant from the China Postdoctoral Science Foundation!
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by _Journal of Real-Time Image Processing_!
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by _IEEE Transactions on Geoscience and Remote Sensing_!
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by _Remote Sensing_!
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
 
-# 📝 Publications 
+
+
+# 📝 代表性论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
