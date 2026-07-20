@@ -175,11 +175,12 @@ h1:before, .anchor:before {
   width: 100%;
 }
 
-/* Mobile: center the language switch */
-@media screen and (max-width: 600px) {
+/* Mobile and tablet: center language switch */
+@media screen and (max-width: 900px) {
   .page__content .lang-switch {
-    justify-content: center;
-    margin-top: 0.5rem;
-    margin-bottom: 1.2rem;
+    display: flex !important;
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 0.5rem auto 1.2rem !important;
   }
 }
