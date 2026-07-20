@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "黄一凡<br>Yifan Huang"
+  name             : "Yifan Huang<br>(黄一凡)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "桂林电子科技大学 副教授  Associate Professor, GUET"
-  location         : "桂林, 中国 / Guilin, China"
+  bio              : "Associate Professor, GUET  桂林电子科技大学 副教授"
+  location         : "Guilin, China / 中国 桂林"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8mFX-usAAAAJ"
@@ -161,3 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# trigger pages rebuild
