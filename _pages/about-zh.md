@@ -122,8 +122,6 @@ lang: zh
   
 - [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, _IEEE Access_, 2018
 
-<br>
-
 - 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, _数字海洋与水下攻防_, 2025
 
 - 瑞利复杂度–色散熵平面:一种新的水声信号非线性特征提取方法, 彭蕾, 陈哲, 张语欣, 王清麟, **黄一凡**, _数字海洋与水下攻防_, 2025
