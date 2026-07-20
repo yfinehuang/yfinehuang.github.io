@@ -24,28 +24,13 @@ redirect_from:
   <a href="/zh/" target="_self">中文</a>
 </div>
 
-My research primarily focuses on **underwater information perception and processing （水下信息感知与处理）**. I am currently an Associate Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). I welcome various forms of academic exchange and research collaboration. Please feel free to contact me at [yfhuang@guet.edu.cn](mailto:yfhuang@guet.edu.cn). I am continuously recruiting master's students, and students interested in related research topics are warmly encouraged to join my group!
+My research focuses on **underwater information perception and processing （水下信息感知与处理）**. I am currently an Associate Professor at the School of Information and Communication Engineering, [Guilin University of Electronic Technology (桂林电子科技大学)](https://www.guet.edu.cn/). I welcome academic exchange and research collaboration in related fields. Please feel free to contact me at [yfhuang@guet.edu.cn](mailto:yfhuang@guet.edu.cn). I am recruiting master's students and warmly welcome applicants interested in underwater vision, underwater intelligent perception, and related research areas to join my group!
 
-I received my Ph.D. from the **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)** at [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the supervision of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Professor Chen Feng**, who received his Ph.D. from Harbin Engineering University. My research interests include underwater information acquisition, underwater visual reconstruction, and underwater intelligent perception and computing. I have achieved several research outcomes in these areas, and the resulting techniques can effectively improve imaging quality and visual perception performance in complex underwater environments.
+I received my Ph.D. from the **Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)** at [Xiamen University (厦门大学)](https://www.xmu.edu.cn/), under the supervision of Professors [Cheng En (程恩)](https://informatics.xmu.edu.cn/old/info/1021/46130.htm) and [Yuan Fei (袁飞)](https://informatics.xmu.edu.cn/old/info/1021/24079.htm). My postdoctoral co-supervisor is **Professor Chen Feng**. My research interests include underwater information acquisition, underwater visual reconstruction, and underwater intelligent perception and computing, with a particular focus on underwater physical imaging modeling, underwater image enhancement, underwater target detection, and polarization-based visual perception. My research aims to improve imaging quality and visual perception capabilities in complex underwater environments.
 
-In the fields of underwater visual reconstruction and intelligent image processing, I have published more than 10 papers in leading international and domestic journals, including **_IEEE Transactions on Geoscience and Remote Sensing_**, **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing-Image Communication_**, etc. I am currently the principal investigator of research projects funded by the **China Postdoctoral Science Foundation** and the **Guangxi Key Research and Development Program**.
+In the fields of underwater visual reconstruction and intelligent image processing, I have published more than 10 papers in peer-reviewed journals, including **_IEEE Transactions on Geoscience and Remote Sensing_**, **_IEEE Journal of Oceanic Engineering_** and **_Signal Processing: Image Communication_**. I am currently the principal investigator of projects funded by the **Guangxi Key Research and Development Program** and the **China Postdoctoral Science Foundation**.
 
 I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video Technology_**, **_CCF Transactions on Pervasive Computing and Interaction_** and **_IEEE Signal Processing Letters_**.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 📖 Educations
 - *2020.09 - 2024.12*, PhD, Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen University. 
@@ -57,92 +42,92 @@ I serve as a reviewer for **_IEEE Transactions on Circuits and Systems for Video
 - *2025.02 - Present*, Guilin University of Electronic Technology, School of Information and Communication, Postdoctoral Researcher
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper is accepted by _IEEE Transactions on Geoscience and Remote Sensing_!
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by _Journal of Marine Science and Engineering_!
-- *2025.12*: &nbsp;🎉🎉 I award a grant from the Guangxi Key Research and Development Program!
-- *2025.12*: &nbsp;🎉🎉 I award a grant from the China Postdoctoral Science Foundation!
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by _Journal of Real-Time Image Processing_!
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by _IEEE Transactions on Geoscience and Remote Sensing_!
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by _Remote Sensing_!
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE Journal of Oceanic Engineering_!
+- *2026.05*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_!
+- *2026.03*: &nbsp;🎉🎉 A paper has been accepted for publication in _Journal of Marine Science and Engineering_!
+- *2025.12*: &nbsp;🎉🎉 I was awarded a grant from the Guangxi Key Research and Development Program!
+- *2025.12*: &nbsp;🎉🎉 I was awarded a grant from the China Postdoctoral Science Foundation!
+- *2025.05*: &nbsp;🎉🎉 A paper has been accepted for publication in _Journal of Real-Time Image Processing_!
+- *2025.02*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Journal of Oceanic Engineering_!
+- *2024.10*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_!
+- *2024.03*: &nbsp;🎉🎉 A paper has been accepted for publication in _Remote Sensing_!
+- *2023.04*: &nbsp;🎉🎉 A paper has been accepted for publication in _IEEE Journal of Oceanic Engineering_!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='images/tgrs2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='/images/tgrs2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Turbid Underwater Image Enhancement via Global-Local Polarimetric Feature Fusion](https://ieeexplore.ieee.org/abstract/document/11501279)
 
-**Yifan Huang**, Qiang Zhou, Congcong Li, Feng Chen, En Cheng, Fei Yuan, **IEEE Transactions on Geoscience and Remote Sensing 2026**
+**Yifan Huang**, Qiang Zhou, Congcong Li, Feng Chen, En Cheng, Fei Yuan, _IEEE Transactions on Geoscience and Remote Sensing_, 2026
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JOE</div><img src='images/joe2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JOE</div><img src='/images/joe2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Underwater Image Enhancement Based on Zero-Reference Deep Network](https://ieeexplore.ieee.org/abstract/document/10091685)
 
-**Yifan Huang**, Fei Yuan, Fengqi Xiao, Jianxiang Lu, En Cheng, **IEEE Journal of Oceanic Engineering 2023**
+**Yifan Huang**, Fei Yuan, Fengqi Xiao, Jianxiang Lu, En Cheng, _IEEE Journal of Oceanic Engineering_, 2023
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='images/spic2020.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='/images/spic2020.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Underwater image enhancement based on color restoration and dual image wavelet fusion](https://www.sciencedirect.com/science/article/pii/S0923596522001035)
 
-**Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, **Signal Processing: Image Communicationg 2022**
+**Yifan Huang**, Fei Yuan, Fengqi Xiao, En Cheng, _Signal Processing: Image Communicationg_, 2022
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='images/spic2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIC</div><img src='/images/spic2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Color correction and restoration based on multi-scale recursive network for underwater optical image](https://www.sciencedirect.com/science/article/pii/S0923596521000254)
 
-**Yifan Huang**, Manyu Liu, Fei Yuan, **Signal Processing: Image Communicationg 2021**
+**Yifan Huang**, Manyu Liu, Fei Yuan, _Signal Processing: Image Communicationg_, 2021
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMSE</div><img src='images/jmse2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMSE</div><img src='/images/jmse2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Speckle Noise Reduction in Sonar Image Based on Adaptive Redundant Dictionary](https://www.mdpi.com/2077-1312/8/10/761)
   
-**Yifan Huang**, Weixiang Li, Fei Yuan, **Journal of marine science and engineering 2020**
+**Yifan Huang**, Weixiang Li, Fei Yuan, _Journal of marine science and engineering_, 2020
 
 </div>
 </div>
 
-- [A method for underwater image enhancement utilizing polarization inspired by the mantis shrimp’s multi-dimensional visual imaging mechanism](https://www.mdpi.com/2077-1312/14/6/582), Qingyu Liu, Ruixin Li, Congcong Li, Canrong Chen, **Yifan Huang**, Huayu Yang, Fei Yuan, **Journal of Marine Science and Engineering 2026**
+- [A method for underwater image enhancement utilizing polarization inspired by the mantis shrimp’s multi-dimensional visual imaging mechanism](https://www.mdpi.com/2077-1312/14/6/582), Qingyu Liu, Ruixin Li, Congcong Li, Canrong Chen, **Yifan Huang**, Huayu Yang, Fei Yuan, _Journal of Marine Science and Engineering_, 2026
 
-- [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **IEEE Journal of Oceanic Engineering 2025**
+- [Semi-Supervised Underwater Image Enhancement Network Boosted by Depth Map Consistency](https://ieeexplore.ieee.org/abstract/document/10879147), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, _IEEE Journal of Oceanic Engineering_, 2025
   
-- [Lightweight Dual-Antagonistic Underwater Image Enhancement Network: A High-Performance Real-Time Approach Combining Knowledge Distillation](https://www.researchsquare.com/article/rs-6451625/v1), Zhiqi Fu, Yuxiang Shen, **Yifan Huang**, Fei Yuan, **Journal of Real-Time ImageProcessing 2025**
+- [Lightweight Dual-Antagonistic Underwater Image Enhancement Network: A High-Performance Real-Time Approach Combining Knowledge Distillation](https://www.researchsquare.com/article/rs-6451625/v1), Zhiqi Fu, Yuxiang Shen, **Yifan Huang**, Fei Yuan, _Journal of Real-Time ImageProcessing_, 2025
   
-- [Neuromorphic computing network for underwater image enhancement and beyond](https://ieeexplore.ieee.org/abstract/document/10704737), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, **IEEE Transactions on Geoscience and Remote Sensing 2024**
+- [Neuromorphic computing network for underwater image enhancement and beyond](https://ieeexplore.ieee.org/abstract/document/10704737), Fengqi Xiao, Jiahui Liu, **Yifan Huang**, En Cheng, Fei Yuan, _IEEE Transactions on Geoscience and Remote Sensing_, 2024
   
-- [A dual-branch autoencoder network for underwater low-light polarized image enhancement](https://www.mdpi.com/2072-4292/16/7/1134), Chang Xue, Qingyu Liu, **Yifan Huang**, En Cheng, Fei Yuan, **Remote Sensing 2024**
+- [A dual-branch autoencoder network for underwater low-light polarized image enhancement](https://www.mdpi.com/2072-4292/16/7/1134), Chang Xue, Qingyu Liu, **Yifan Huang**, En Cheng, Fei Yuan, _Remote Sensing_, 2024
   
-- [Turbid Underwater Image Enhancement Based on Parameter-Tuned Stochastic Resonance](https://ieeexplore.ieee.org/abstract/document/9880475), Fengqi Xiao, Fei Yuan, **Yifan Huang**, En Cheng, **IEEE Journal of Oceanic Engineering 2022**
+- [Turbid Underwater Image Enhancement Based on Parameter-Tuned Stochastic Resonance](https://ieeexplore.ieee.org/abstract/document/9880475), Fengqi Xiao, Fei Yuan, **Yifan Huang**, En Cheng, _IEEE Journal of Oceanic Engineering_, 2022
   
-- [Noise reduction for sonar images by statistical analysis and fields of experts](https://www.sciencedirect.com/science/article/pii/S104732032030211X), Fei Yuan, Fengqi Xiao, Kaihan Zhang, **Yifan Huang**, En Cheng, **Journal of Visual Communication and Image Representation 2021**
+- [Noise reduction for sonar images by statistical analysis and fields of experts](https://www.sciencedirect.com/science/article/pii/S104732032030211X), Fei Yuan, Fengqi Xiao, Kaihan Zhang, **Yifan Huang**, En Cheng, _Journal of Visual Communication and Image Representation_, 2021
   
-- [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, **IEEE Access 2018**
+- [A Biological Sensor System Using Computer Vision for Water Quality Monitoring](https://ieeexplore.ieee.org/abstract/document/8493502), Fei Yuan, **Yifan Huang**, Xin Chen, En Cheng, _IEEE Access_, 2018
 
-- 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, **数字海洋与水下攻防 2025**
+- 基于成像双曲线修正模型的水下图像增强, **黄一凡**, 刘亚琛, 陈哲, 陈峰, _数字海洋与水下攻防_, 2025
 
-- 瑞利复杂度–色散熵平面:一种新的水声信号非线性特征提取方法, 彭蕾, 陈哲, 张语欣, 王清麟, **黄一凡**, **数字海洋与水下攻防 2025**
+- 瑞利复杂度–色散熵平面:一种新的水声信号非线性特征提取方法, 彭蕾, 陈哲, 张语欣, 王清麟, **黄一凡**, _数字海洋与水下攻防_, 2025
 
-- 基于特征值梯度跃变的半谱搜索DOA估计算法, 韩宝进, 阮诗乔, 张语欣, 钟博远, 陈哲, **黄一凡**, **数字海洋与水下攻防 2025**
+- 基于特征值梯度跃变的半谱搜索DOA估计算法, 韩宝进, 阮诗乔, 张语欣, 钟博远, 陈哲, **黄一凡**, _数字海洋与水下攻防_, 2025
 
-- 基于噪声子空间重构的矢量阵MUSIC改进算法, 唐林驰, 韩宝进, **黄一凡(通讯)**, 周强, **数字海洋与水下攻防 2025**
+- 基于噪声子空间重构的矢量阵MUSIC改进算法, 唐林驰, 韩宝进, **黄一凡 (通讯)**, 周强, _数字海洋与水下攻防_, 2025
   
-- [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, **厦门大学学报 (自然科学版) 2017**
+- [鱼类应激行为作用下的水质视频监测分析系统](https://kns.cnki.net/kcms2/article/abstract?v=4J3GFaKSuTPdnOfGVwVM6r1GhcEFCEh4OvxJcoWsBJ1-qO8gq94_Rel48wwCSEhCpGnhNvUuu0gT8GicNZvU6_sb9Jjx4vzPrvUfPCrEz-OPDiq-mMfslfcPjZQX2_wM0iCVpmkPQMlL9fKDE4jXxlc1vd4Q9VX7XbgW_kWDYuMKGZCqMP2Fig==&uniplatform=NZKPT&language=CHS), **黄一凡**, 陈欣, 袁飞, _厦门大学学报 (自然科学版)_, 2017
 
 # 💎 Projects
 - *2026.01 - 2028.12*, **广西重点研发计划项目**, 面向AUV编队协同的成像声纳智能感知技术研究, 470万元, 在研, **主持**
