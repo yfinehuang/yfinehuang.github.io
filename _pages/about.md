@@ -47,6 +47,16 @@ I am a reviewer for **_IEEE Transactions on Circuits and Systems for Video Techn
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='images/tgrs2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Turbid Underwater Image Enhancement via Global-Local Polarimetric Feature Fusion](https://ieeexplore.ieee.org/abstract/document/11501279)
+
+**Yifan Huang**, Qiang Zhou, Congcong Li, Feng Chen, En Cheng, Fei Yuan, **IEEE Transactions on Geoscience and Remote Sensing 2026**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JOE</div><img src='images/joe2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
