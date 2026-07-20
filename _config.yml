@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yifan Huang<br>(黄一凡)"
+title                    : "Yifan Huang (黄一凡)"
 description              : "Homepage"
 repository               : "yfinehuang/yfinehuang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Huang  
-  (黄一凡)"
+  name             : "Yifan Huang<br>(黄一凡)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "桂林电子科技大学 副教授  Guilin University of Electronic Technology, Associate Professor"
   location         : "中国 桂林 / Guilin, China"
